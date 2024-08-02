@@ -10,7 +10,7 @@ Este proyecto es perfecto para principiantes que desean tener una base sólida e
 
 También he preparado un video, en el que te guiaré a través de los pasos necesarios para qué puedas crear tu propia web:  <a href="https://studio.youtube.com/video/c25vFjKxpmY/">Desarrollo Web: Cómo Crear un Sitio Web Básico de Principio a Fin</a>
 
-<img src="https://github.com/VintaBytes/Sitio-Web-desde-cero-parte-1/blob/main/portada.jpeg?raw=true">
+<img src="https://github.com/VintaBytes/Sitio-Web-desde-cero-Parte-2/blob/main/portada.jpeg?raw=true">
 
 ## Screenshot:
 <img src="https://github.com/VintaBytes/Sitio-Web-desde-cero-parte-1/blob/main/screenshot.png?raw=true">
