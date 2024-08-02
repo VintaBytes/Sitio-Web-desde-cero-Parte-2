@@ -13,4 +13,4 @@ También he preparado un video, en el que te guiaré a través de los pasos nece
 <img src="https://github.com/VintaBytes/Sitio-Web-desde-cero-Parte-2/blob/main/portada.jpeg?raw=true">
 
 ## Screenshot:
-<img src="https://github.com/VintaBytes/Sitio-Web-desde-cero-parte-1/blob/main/screenshot.png?raw=true">
+<img src="https://github.com/VintaBytes/Sitio-Web-desde-cero-Parte-2/blob/main/screenshot.png?raw=true">
